@@ -17,6 +17,6 @@ as a child background process from the shell.
 
 ---
 
-### Usage
+## Usage
 
 Add `--with-sigterm` to the nosetest CLI options.
